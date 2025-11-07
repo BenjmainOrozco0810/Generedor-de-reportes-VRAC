@@ -1,0 +1,15 @@
+{
+    "rutas": {
+        "entrada": "data/input",
+        "salida": "data/output",
+        "config": "data/config"
+    },
+    "archivos": {
+        "csv_entrada": "datos_admision.csv",
+        "metas": "metas_carreras.csv"
+    },
+    "columnas_csv": {
+        "skip_rows": 2,
+        "encoding": "utf-8"
+    }
+}
